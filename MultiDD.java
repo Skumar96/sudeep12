@@ -7,6 +7,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.ui.Select;
 
 public class MultiDD {
+//yaminipriya
 	static WebDriver d;
 	@BeforeClass
 	public static void setUp()

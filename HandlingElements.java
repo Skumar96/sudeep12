@@ -11,6 +11,7 @@ public class HandlingElements {
 		// Launch browser
 		System.setProperty("webdriver.gecko.driver", "E:\\Driver Server\\geckodriver.exe");
 		WebDriver d=new FirefoxDriver();
+//yaminiprya
 		//Load web page
 		d.get("http://book.theautomatedtester.co.uk/chapter1");
 		WebElement radio=d.findElement(By.id("radiobutton"));
